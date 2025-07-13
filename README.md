@@ -1,6 +1,8 @@
 # How-To-Make-Glow-in-CS2
 This repository is made solely for the purpose to provide open-sourced code based off of a tutorial video.
 
+[Educational Video](https://www.youtube.com/watch?v=Ztxe-LLgrlk)
+
 
 ## Requirements
 - Python 3
